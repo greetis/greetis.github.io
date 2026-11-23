@@ -1,0 +1,20 @@
+КОСМОС — джерела зображень
+
+Cosmic Cliffs / NGC 3324, James Webb Space Telescope
+NASA, ESA, CSA, and STScI
+https://esawebb.org/images/weic2205a/
+CC BY 4.0. Зображення обрізано та затемнено для композиції сторінки.
+Це сучасна область зореутворення, а не фотографія Великого вибуху.
+
+Andromeda panorama / M31, Hubble Space Telescope
+NASA, ESA, B. Williams (University of Washington)
+https://esahubble.org/images/heic2501a/
+CC BY 4.0. Зображення обрізано та затемнено.
+Андромеда використовується для ілюстрації галактик, не як зображення найперших галактик.
+
+Blue Marble 2012 — композитне зображення Землі
+NASA/NOAA/GSFC/Suomi NPP/VIIRS/Norman Kuring
+https://svs.gsfc.nasa.gov/30002
+
+Умовні зображення ранніх епох і Сонячної системи створено засобами CSS.
+Розміри, відстані та кольори цих схем не є науковими вимірюваннями.
